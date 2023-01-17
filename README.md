@@ -1,6 +1,6 @@
 
 # wssix
-wssix helps you to create your own phishing tool.
+Create your own phishing tool.
 
 ## Benefits of this tool
 
