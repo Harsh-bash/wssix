@@ -47,7 +47,7 @@ and replace this with Your API.
 
 
 ## **Setup Admin Panel**  ...
-- Now open **Admin-wssix** Folder.
+- Open **Admin-wssix** Folder.
 - Goto **/static/js/** folder and open **main.864cb797.js** file.
 
 - In this file search this string :
