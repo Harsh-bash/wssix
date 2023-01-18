@@ -58,7 +58,7 @@ and replace with your  **sheetdb** api.
 
 **All done.....**
 
-Now host **Admin-wssix** folder and **Instagram-phish** folder separately.
+Now host **Admin-wssix** folder and **client** folder separately.
 For hosting : 
 
 - [**Netlify**](https://netlify.com/)
