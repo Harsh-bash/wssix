@@ -93,5 +93,5 @@ name="data[password]"
 type="submit" name="submit"
 ```
 
-**Now all data from this form is save in your google sheets and you can access it with this admin panel.**
+**Now all data from this form is save in your google sheets and in your admin panels.**
 
