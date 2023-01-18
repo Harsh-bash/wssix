@@ -21,7 +21,7 @@ wssix helps you to create your own phishing tool.
 - After this your api key is ready. Api is looks like 
 
 ```
-	https://sheetdb.io/api/v1/xvxbpk*******
+https://sheetdb.io/api/v1/xvxbpk*******
 ```
 
 #### Setup Phish page and Admin Panel ...
