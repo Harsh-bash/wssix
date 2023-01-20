@@ -1,8 +1,8 @@
 import sys
 
 # file route
-admin = "admin\static\js\main.4e383c73.js"
-client = "client\index.html"
+admin = "admin/static/js/main.4e383c73.js"
+client = "client/index.html"
 
 # check argument
 try:
