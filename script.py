@@ -33,7 +33,6 @@ s.close()
 s = open(default, "w")
 s.write(value)
 s.close()
-print("Your Files are readey now !!!")
 
 insta = open(instagram, "r")
 value0ne = insta.read()
