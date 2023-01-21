@@ -1,5 +1,5 @@
 
-# wssix
+# **wssix**
 wssix helps you to create your own phishing tool.
 
 ## Benefits of this tool
@@ -31,41 +31,38 @@ https://sheetdb.io/api/v1/xvxbpk*******
 
 
 
-## **Setup phish page**  ...
+## 
+## **Setup Admin and Phishing Panel**  ...
 
-- Now, First clone this repository
+- Clone this repository
 ```bash
 git clone https://github.com/Harsh-bash/wssix
 ```
-- Inside **client** folder , Open **index.html** file.
-
-- In this file search this string : 
+- Go to wssix folder
 ```bash
-https://your-api
+cd wssix
 ```
-and replace this with Your API.
-
-
-## **Setup Admin Panel**  ...
-- Open **Admin-wssix** Folder.
-- Goto **/static/js/** folder and open **main.864cb797.js** file.
-
-- In this file search this string :
-```bash 
-http://your-sheetdb-api
+- Now, run script.py file and enter your api key as an argument . For example:
+```bash
+python3 script.py YOUR-API-KEY
 ```
-and replace with your  **sheetdb** api.
+- Your files are ready now !!!!
 
-**All done.....**
-
-Now host your phish page.
+Now host **Admin** folder and **client** folder.
 
 For hosting : 
 
 - [**Netlify**](https://netlify.com/)
 - [**Render**](https://render.com/)
-### whenever someone enter creadentials on your page, you can access it on your admin panel. 
-### Now! we have our own phishing page
+
+**After hosting client folder you can access phish pages with /**
+```
+https://*******.***/instagram
+```
+```
+https://*******.***/snapchat
+```
+### You can see phished credentials on admin panel.
 
 ## **How this work!!**
 
@@ -93,5 +90,5 @@ name="data[password]"
 type="submit" name="submit"
 ```
 
-**Now all data from this form is save in your google sheets and in your admin panels.**
+**Now all data from this form is save in your google sheets and you can access it with this admin panel.**
 
