@@ -14,8 +14,10 @@ wssix helps you to create your own phishing tool.
 
 - First you have to create blank google sheet.
 - Make this sheet public and inside this sheet type email and password on first two cells like this : ( !! just types these words not your email and password !! )
+```
  ________________    _______________
 |_____EMAIL______| |___PASSWORD____|
+```
 ![](https://raw.githubusercontent.com/Harsh-bash/wssix/aurora/images/screenshot.png)
 
 
