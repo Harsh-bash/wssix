@@ -13,7 +13,7 @@ wssix helps you to create your own phishing tool.
 ## **CREATING API key** ...
 
 - First you have to create blank google sheet.
-- Make this sheet public and inside this sheet type email and password on first two cells. ( **Just types these words not your email and password** )
+- Make this sheet public and inside this sheet type email and password on first two cells.    ( **Just type these words not your email and password** )
 ```
    ______________   _______________
 |_____EMAIL______| |___PASSWORD____|
